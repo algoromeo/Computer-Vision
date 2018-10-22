@@ -1,7 +1,7 @@
 
-Here's a Jupyter Notebook for basic image processing (WITHOUT AI) that I found a little interesting:
+Here's a Jupyter Notebook solution for basic image processing (WITHOUT AI) problem that I found a little interesting:
 
-Problem: Isolate the eyes of a face and colour the eyes. (NOT the eye region) 
+Problem: Isolate the eyes of a face AND COLOUR the eyes. (NOT the eye region) 
 
 Just thought I should give it a shot 
 
