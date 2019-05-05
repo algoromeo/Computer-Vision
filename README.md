@@ -1,9 +1,7 @@
 
-Here's a Jupyter Notebook solution for basic image processing (WITHOUT AI) problem that I found a little interesting:
+Here's a Jupyter Notebook solution for basic image processing problem that I was asked to do as an internship job:
 
-Problem: Isolate the eyes of a face AND COLOUR the eyes. (NOT the eye region) 
-
-Just thought I should give it a shot 
+Problem: Isolate the eyes of any given face face AND COLOUR the eyes. (NOT the eye region) 
 
 AN IMPROVED VERSION IS COMING SOON:
   I am in process of training an iris detector using a custom designed CNN Network to detect the eyes more specifically than
